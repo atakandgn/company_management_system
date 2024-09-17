@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c17"
+  },
+  "name": "Footwear"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c18"
+  },
+  "name": "Smartphones"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c19"
+  },
+  "name": "Home Appliances"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c1a"
+  },
+  "name": "Vehicles"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c1b"
+  },
+  "name": "Personal Care"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c1c"
+  },
+  "name": "Electronics"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c1d"
+  },
+  "name": "Beverages"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c1e"
+  },
+  "name": "Food"
+},
+{
+  "_id": {
+    "$oid": "66e8c23895fadd2a74644c1f"
+  },
+  "name": "Miscellaneous"
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66e8b521a20a6b9761be45f6"
+  },
+  "firstname": "Atakan",
+  "lastname": "Doğan",
+  "username": "atakandogan",
+  "email": "atakandogan.info@gmail.com",
+  "password": "$2b$10$DfDMcaKEu18f5toPaasGN.H44Pg0chuobG8QkVvCKuXxA9X8sSha2",
+  "createdAt": {
+    "$date": "2024-09-16T22:45:53.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-16T22:45:53.270Z"
+  },
+  "__v": 0
+}]

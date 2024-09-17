@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf2"
+  },
+  "name": "Nike Inc.",
+  "legalNumber": "10249807",
+  "country": "USA",
+  "website": "https://nike.com",
+  "updatedAt": {
+    "$date": "2024-09-16T23:06:11.409Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf3"
+  },
+  "name": "Apple Inc.",
+  "legalNumber": "2744320",
+  "country": "USA",
+  "website": "https://apple.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf4"
+  },
+  "name": "Samsung Electronics",
+  "legalNumber": "5739284",
+  "country": "South Korea",
+  "website": "https://samsung.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf5"
+  },
+  "name": "Siemens AG",
+  "legalNumber": "8312098",
+  "country": "Germany",
+  "website": "https://siemens.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf6"
+  },
+  "name": "Toyota Motor Corporation",
+  "legalNumber": "32198745",
+  "country": "Japan",
+  "website": "https://global.toyota"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf7"
+  },
+  "name": "Unilever PLC",
+  "legalNumber": "3037204",
+  "country": "UK",
+  "website": "https://unilever.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf8"
+  },
+  "name": "Microsoft Corporation",
+  "legalNumber": "6004136",
+  "country": "USA",
+  "website": "https://microsoft.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bf9"
+  },
+  "name": "Coca-Cola Company",
+  "legalNumber": "7451986",
+  "country": "USA",
+  "website": "https://coca-colacompany.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bfa"
+  },
+  "name": "Volkswagen AG",
+  "legalNumber": "4017562",
+  "country": "Germany",
+  "website": "https://volkswagen.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bfb"
+  },
+  "name": "Nestlé S.A.",
+  "legalNumber": "5678910",
+  "country": "Switzerland",
+  "website": "https://nestle.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bfc"
+  },
+  "name": "Adidas AG",
+  "legalNumber": "4567123",
+  "country": "Germany",
+  "website": "https://adidas.com"
+},
+{
+  "_id": {
+    "$oid": "66e8b83695fadd2a74644bfd"
+  },
+  "name": "HP Inc.",
+  "legalNumber": "7894561",
+  "country": "USA",
+  "website": "https://hp.com"
+},
+{
+  "_id": {
+    "$oid": "66e8bcd93bf94e40755e9eb3"
+  },
+  "name": "test",
+  "legalNumber": "1",
+  "country": "T",
+  "website": "https://www.example.com",
+  "createdAt": {
+    "$date": "2024-09-16T23:18:49.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-16T23:18:49.621Z"
+  },
+  "__v": 0
+}]

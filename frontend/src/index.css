@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dark mode styling for Ant Design modal */
+.dark .ant-modal-content {
+  background-color: #1f2937;
+  color: #f9fafb;
+}
+
+.dark .ant-modal-header {
+  background-color: #1f2937;
+  color: #f9fafb;
+}
+
+.dark .ant-modal-title {
+  color: #f9fafb;
+}
+
+.dark .ant-modal-body {
+  background-color: #1f2937;
+  color: #f9fafb;
+}
+
+.dark .ant-form-item-required {
+  color: white;
+}
+
+/* Dark mode styling for the required asterisk */
+.dark .ant-form-item .ant-form-item-label > label {
+  color: #fff; /* White color for the asterisk in dark mode */
+}
+
+/* Dark mode select  and options background  */
+.dark .ant-select-outlined:not(.ant-select-customize-input) .ant-select-selector {
+    background-color: rgb(55 65 81);
+    border-color: rgb(55 65 81);
+    /* roudnedmd */
+    border-radius: 0.25rem;
+}
+
+.dark .ant-select-item-option-content, .dark .ant-select-dropdown {
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+}
+
+
+/* Table  */
+.dark .ant-table {
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+}
+
+.dark .ant-table-content{
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+    border-radius: 0.25rem;
+}
+
+.dark .ant-table-thead > tr > th {
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+}
+
+.dark .ant-table-tbody > tr > td {
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+}
+
+.dark .ant-table-tbody > tr.ant-table-row:hover > td {
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+}
+
+.dark .ant-table-tbody > tr.ant-table-row-selected > td {
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+}
+
+.dark .ant-table-column-sorters:hover {
+    background-color: #2f353e;
+    color: #f9fafb;
+}
+
+.dark .ant-table-wrapper .ant-table-thead th.ant-table-column-has-sorters:hover {
+    background-color: #2f353e;
+    color: #f9fafb;
+}
+
+.dark .ant-typography {
+    color: #f9fafb;
+}
+
+.dark .ant-pagination {
+    background-color: rgb(55 65 81);
+    color: #f9fafb;
+}
+
+.ant-table-wrapper .ant-table-pagination.ant-pagination {
+    margin: 0px;
+    padding: 16px 0px;
+    border-radius: 0px 0px 0.25rem 0.25rem;
+}
+
+.dark .ant-modal .ant-modal-close {
+    background-color: #2f353e;
+    color: white;
+}
+
+/* hover   .dark .ant-modal .ant-modal-close { */
+.dark  .ant-modal .ant-modal-close:hover {
+    background-color: #353e4a;
+    color: white;
+}
+
+.dark .ant-descriptions.ant-descriptions-bordered > .ant-descriptions-view .ant-descriptions-row > .ant-descriptions-item-label {
+    background-color: rgb(45, 56, 74) !important;
+    color: #f9fafb;
+}
+
+.dark .ant-descriptions-item-content {
+    background-color: rgb(55 65 81) !important;
+    color: #f9fafb;
+}
+
+.dark .ant-descriptions.ant-descriptions-bordered > .ant-descriptions-view .ant-descriptions-row > .ant-descriptions-item-label{
+    border-inline-end: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.dark .ant-descriptions.ant-descriptions-bordered > .ant-descriptions-view .ant-descriptions-row{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+.dark .ant-table-wrapper .ant-table-thead th.ant-table-column-has-sorters:hover {
+    background-color: #2f353e !important;
+    color: #f9fafb;
+}
+.dark .ant-table-wrapper .ant-table-thead th.ant-table-column-sort {
+    background-color: #2f353e !important;
+    color: #f9fafb;
+}

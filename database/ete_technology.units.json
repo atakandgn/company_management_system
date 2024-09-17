@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd2"
+  },
+  "name": "Piece",
+  "abbreviation": "pcs"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd3"
+  },
+  "name": "Kilogram",
+  "abbreviation": "kg"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd4"
+  },
+  "name": "Gram",
+  "abbreviation": "g"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd5"
+  },
+  "name": "Liter",
+  "abbreviation": "L"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd6"
+  },
+  "name": "Milliliter",
+  "abbreviation": "mL"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd7"
+  },
+  "name": "Meter",
+  "abbreviation": "m"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd8"
+  },
+  "name": "Centimeter",
+  "abbreviation": "cm"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bd9"
+  },
+  "name": "Inch",
+  "abbreviation": "in"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bda"
+  },
+  "name": "Packet",
+  "abbreviation": "pkt"
+},
+{
+  "_id": {
+    "$oid": "66e8762895fadd2a74644bdb"
+  },
+  "name": "Box",
+  "abbreviation": "box"
+}]
