@@ -45,8 +45,8 @@ Follow the steps below to get the project running locally:
  **Clone the repository:**
 
    ```bash
-   git clone https://github.com/atakandgn/ete_technology.git
-   cd ete_technology
+   git clone https://github.com/atakandgn/company_management_system.git
+   cd company_management_system
 
 
    cd api 
